@@ -1,0 +1,52 @@
+{
+  "_from": "env-params",
+  "_inBundle": false,
+  "_location": "/env-params",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "env-params",
+    "name": "env-params",
+    "escapedName": "env-params",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "author": "Javed Ali <imjavedali@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/MJavedAli/env-params/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "dotenv": "*",
+    "dotenv-expand": "^5.0.0"
+  },
+  "deprecated": false,
+  "description": "env-params is a library dotenv to parametrise using multiple .env file at different path and ecosystems",
+  "keywords": [
+    ".env",
+    "environment",
+    "variables",
+    "node",
+    "params",
+    "dotenv"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "env-params",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MJavedAli/env-params.git"
+  },
+  "scripts": {},
+  "version": "1.0.2",
+  "homepage": "https://github.com/MJavedAli/env-params#readme",
+  "directories": {
+    "lib": "lib"
+  }
+}
