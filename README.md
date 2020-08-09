@@ -1,6 +1,6 @@
 # env-params
 
-Custom env is a library built to make development more feasible by allowing multiple .env configurations for different environments. This is done by loading environment variables from a .env._envname_ file, into the node's `process.env` object.
+env params is a library built to make development more feasible by allowing multiple .env configurations for different environments. This is done by loading environment variables from a .env._envname_ file, into the node's `process.env` object.
 
 ## Installation
 
